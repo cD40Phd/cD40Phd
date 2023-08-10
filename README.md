@@ -8,4 +8,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cD40Phd)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cD40Phd&layout=compact)](https://github.com/cD40Phd/github-readme-stats)
+<!---Для компактной версии-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=cD40Phd)](https://github.com/cD40Phd/github-profile-trophy)
 
