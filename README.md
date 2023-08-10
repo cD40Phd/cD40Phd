@@ -9,8 +9,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cD40Phd)](https://git.io/streak-stats)
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cD40Phd&layout=compact)](https://github.com/cD40Phd/github-readme-stats)
-<!---Для компактной версии-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cD40Phd&repo=github-readme-stats)](https://github.com/cD40Phd/github-readme-stats)
-<!---Для компактной версии-->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cD40Phd)](https://github.com/cD40Phd/github-readme-activity-graph)
 
