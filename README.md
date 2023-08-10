@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cD40Phd)](https://github.com/cD40Phd/github-readme-stats)
 <!---Для компактной версии-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=cD40Phd)](https://github.com/cD40Phd/github-profile-trophy)
-<!---Для компактной версии-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'll be back...)](https://git.io/typing-svg)
+<!---Анимация-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
