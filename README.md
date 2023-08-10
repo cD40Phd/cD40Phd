@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 <!---Для компактной версии-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=cD40Phd)](https://github.com/cD40Phd/github-profile-trophy)
 <!---Анимация-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'll+be+back...+with+my+exceptional+programming+skills+and+determination+to+excel+in+the+field+of+software+development.)](https://git.io/typing-svg)
 
