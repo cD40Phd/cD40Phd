@@ -11,6 +11,3 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cD40Phd)](https://github.com/cD40Phd/github-readme-stats)
 <!---Для компактной версии-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=cD40Phd)](https://github.com/cD40Phd/github-profile-trophy)
-<!---Анимация-->
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=700&duration=1000&pause=500&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=500&lines=I'll+be+back...;+with+my+exceptional+programming+skills;determination+to+excel+in+software+level" alt="Typing SVG" /></a>
-
